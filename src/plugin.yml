@@ -1,0 +1,7 @@
+main: me.amazman.kill.Main
+name: KillCommand
+author: amazman
+version: 1.0
+
+commands:
+  kill:
